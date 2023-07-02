@@ -1,0 +1,46 @@
+
+   
+
+
+img { 
+    width: 230px;
+    height: 300px;
+}
+
+body {
+    background-color: #faf4d9;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.run-1 {
+  
+    float:left;
+    font-size: 17px;
+    font-weight: bold;
+    
+}
+
+.run-2{
+    float: left;
+    font-size: 17px;
+    font-weight: bold;
+
+}
+
+.hi{
+    float:left;
+    font-size: 17px;
+    font-weight: bold;
+}
